@@ -11,3 +11,10 @@ References-
 
 Assigned @Dwijo Ganguly
 
+Methodology-
+
+1. Reseach papers, news articles, reports to be used for this purpose.
+
+2. Approach using relevant data and facts.
+
+3. Make daily progess informed in slack channel "projects".
