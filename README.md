@@ -9,7 +9,7 @@ References-
 
 3. https://www.thebetterindia.com/topics/waste-management-2/
 
-Assigned @Dwijo Ganguly
+
 
 Methodology-
 
@@ -17,4 +17,3 @@ Methodology-
 
 2. Approach using relevant data and facts.
 
-3. Make daily progess informed in slack channel "projects".
